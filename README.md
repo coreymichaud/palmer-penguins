@@ -1,4 +1,4 @@
-# Palmer Penguins
+# Predicting Penguin Species with Palmer Penguins
 
 This is a notebook that I am using to try out different machine learning models and techniques. The data, Palmer Penguins, is very simple and small. This makes it easy to try things out fast.
 
