@@ -1,0 +1,8 @@
+palmerpenguins
+pandas
+numpy
+tabulate
+matplotlib
+seaborn
+scikit-learn
+xgboost
