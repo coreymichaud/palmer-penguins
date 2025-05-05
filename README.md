@@ -43,3 +43,7 @@ I learned that there are different weights you can use for the f1 score dependin
 ## Future Endeavors
 
 I would like to try out other ML models with the data. This dataset is very small and easy to work with, so it's nice to be able to quickly implement something and have it work.
+
+# Kaggle!
+
+Check out this notebook on [Kaggle](https://www.kaggle.com/code/coreymichaud/palmer-penguins).
